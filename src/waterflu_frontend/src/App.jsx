@@ -17,6 +17,7 @@ export default function App() {
       path: "/Water",
       element: <Waterflu/>,
     },
+ 
   ]);
 
   const client = Client.create({
